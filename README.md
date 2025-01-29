@@ -1,4 +1,4 @@
-# Link Tracker (Chrome Extension)
+<h1>Link Tracker (Chrome Extension)</h1>
 
 <p>A simple and efficient Chrome extension to save, manage, and export URLs from your active browser tabs.</p>
 
